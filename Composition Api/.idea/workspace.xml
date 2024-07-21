@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd07431e-ce14-4221-b862-bb0f0d5e4097" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assignments/composition-assignment-2-problem/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composition-01-starting-setup - 297/src/components/UserData.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 2 - 80/cmp-adv-01-starting-setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Part 2 - 80/cmp-adv-01-starting-setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/assignments/composition-assignment-1-problem/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/HOW-TO-USE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 3 - 129/composition-01-starting-setup/src/main.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2jEibDzMZy5oFay6xcu0Xy9pHNa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Programming/Vue max/Composition Api/composition-13-demo-starting-project",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd07431e-ce14-4221-b862-bb0f0d5e4097" name="Changes" comment="" />
+      <created>1720958706285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720958706285</updated>
+      <workItem from="1720958707263" duration="30000" />
+    </task>
+    <servers />
+  </component>
+</project>
