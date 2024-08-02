@@ -1,33 +1,17 @@
 <template>
-  <div class='container'>
-    <div class='block' :class='{animate: animatedBlock}'></div>
-    <button @click='animateBlock'>Animate</button>
-  </div>
-  <div class='container'>
-    <transition @before-enter='beforeEnter' @enter='enter' @after-enter='afterEnter' @before-leave='beforeLeave' @leave='leave' @after-leave='afterLeave' @enter-cancelled='enteredCancelled' @leave-cancelled='leaveCancelled' >
-      <p v-if='paraIsVisible'>This is only sometimes visible</p>
-    </transition>
-    <button @click='toggleParagraph'>Toggle Paragraph</button>
 
-  </div>
-  <div class='container'>
-    <transition name='fade-button' mode='out-in'>
-      <button @click='showUsers' v-if='!usersAreVisible'>Show users</button>
-      <button @click='hideUsers' v-else>Hide users</button>
-    </transition>
-  </div>
-  <base-modal @close='hideDialog' :open='dialogIsVisible'>
-    <p>This is a test dialog!</p>
-    <button @click='hideDialog'>Close it!</button>
-  </base-modal>
+    <router-view v-slot='slotProps'>
+      <transition name='fade-button' mode='out-in'>
+        <component :is='slotProps.Component'></component>
+      </transition>
+    </router-view>
 
-  <div class='container'>
-    <button @click='showDialog'>Show Dialog</button>
-  </div>
 </template>
 
 <script>
+// import UsersList from './components/UsersList.vue';
 export default {
+  // components: { UsersList },
   data() {
     return {
       dialogIsVisible: false,
@@ -35,11 +19,10 @@ export default {
       paraIsVisible: false,
       usersAreVisible: false,
       enterInterval: null,
-      leaveInterval: null,
+      leaveInterval: null
     };
   },
   methods: {
-
     enteredCancelled() {
       // We clear the interval if the button is clicked by the
       // user while the animation still plays
@@ -66,7 +49,7 @@ export default {
           clearInterval(this.enterInterval);
           done();
         }
-      }, 20)
+      }, 20);
 
     },
     afterEnter(el) {
@@ -79,7 +62,7 @@ export default {
 
       el.style.opacity = 1;
     },
-    leave(el,done) {
+    leave(el, done) {
       console.log('leave');
       console.log(el);
 
@@ -91,7 +74,7 @@ export default {
           clearInterval(this.leaveInterval);
           done();
         }
-      })
+      });
     },
     afterLeave(el) {
       console.log('afterLeave');
@@ -211,5 +194,17 @@ button:active {
   }
 }
 
+.route-enter-from {
+
+}
+.route-enter-active {
+  animation: slide-scale .4s ease-out;
+}
+.route-enter-to {
+
+}
+.route-leave-active {
+  animation: slide-scale .4s ease-in;
+}
 
 </style>
