@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="526117e2-6362-4d92-b0eb-12a0faf5d9f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-11-a-challenge-starting-code/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-11-a-challenge-starting-code/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-11-a-challenge-starting-code/src/store/modules/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-11-a-challenge-starting-code/src/store/modules/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/components/ChangeCounter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/components/FavouriteValue.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/components/TheCounter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/components/UserAuth.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/store/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/store/counter/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/store/counter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/store/counter/mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/store/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/store/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex-01-starting-setup/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex-01-starting-setup/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex-01-starting-setup/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuex-01-starting-setup/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vuex-01-starting-setup/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2kWE8TzPvGzYh6K5wi4tfcg9nYd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/theod/Documents/Programming/Vue max/Main project/main-prj-01-starting-setup",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="526117e2-6362-4d92-b0eb-12a0faf5d9f6" name="Changes" comment="" />
+      <created>1723390773375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723390773375</updated>
+      <workItem from="1723390774463" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
